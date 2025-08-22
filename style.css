@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Website</title>
+  <!-- Link external CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <!-- Navbar -->
+  <nav>
+    <h1>My Website</h1>
+    <ul>
+      <li><a href="#">Home</a></li>
+      <li><a href="#">About</a></li>
+      <li><a href="#">Services</a></li>
+      <li><a href="#">Contact</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero">
+    <h2>Welcome to My Website</h2>
+    <p>Simple HTML and CSS website layout example 🚀</p>
+  </section>
+
+  <!-- Cards Section -->
+  <section class="cards">
+    <div class="card">
+      <h3>Card 1</h3>
+      <p>This is a sample card with some text inside.</p>
+    </div>
+    <div class="card">
+      <h3>Card 2</h3>
+      <p>This is another card with some information.</p>
+    </div>
+    <div class="card">
+      <h3>Card 3</h3>
+      <p>Cards are useful for showing content in blocks.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2025 My Website. All Rights Reserved.</p>
+  </footer>
